@@ -1,0 +1,11 @@
+export const BASE_ROUTE="/"
+export const REGISTRATION_USER_ROUTE="/registeruser"
+export const ABOUT_US_ROUTE="/about-us"
+export const LOGIN_USER_ROUTE="/loginuser"
+export const LOGIN_ADMIN_ROUTE="/loginadmin"
+export const REGISTRATION_ADMIN_ROUTE="/registeradmin"
+export const BOOKINGFORM_ROUTE="/bookingform"
+export const DATE_BOOKING_ROUTE="/dateform"
+export const BOOKING_CONFIRMED_ROUTE="/bookingconfirmed"
+export const CHECK_BOOKING_ROUTE="/checkbooking"
+export const MAP_ROUTE = "/map"; 
